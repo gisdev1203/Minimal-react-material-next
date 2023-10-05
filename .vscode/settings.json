@@ -1,0 +1,8 @@
+{
+  "eslint.workingDirectories": [
+    "./cra_JS",
+    "./nextjs_JS",
+    "./simple_cra_JS",
+    "./simple_nextjs_JS",
+  ],
+}
